@@ -1,0 +1,40 @@
+{
+  "id": "fa74fd6d-b503-4abc-80fa-80c6bcbdd05c",
+  "parentId": "6c87d6bc-99b6-4129-93bb-bd5a0ed2f93c",
+  "rootParentId": "6c87d6bc-99b6-4129-93bb-bd5a0ed2f93c",
+  "name": "Sign in - api",
+  "auto": true,
+  "contexts": [
+    "Signin-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Signin.Signin-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_NEW_SURFACE"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

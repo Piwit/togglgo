@@ -1,0 +1,59 @@
+{
+  "id": "baadfb83-81b3-4fdd-8c35-685bf2d49802",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi! With Toggl Go you can start and stop a Toggl timer.",
+            "Hello! How can I help you? With Toggl Go you can start and stop a Toggl timer.",
+            "Good day! With Toggl Go you can start and stop a Toggl timer.",
+            "Greetings! How can I assist? With Toggl Go you can start and stop a Toggl timer."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Salut ! Avec moi, vous pouvez lancer ou arrêter un timer toggl",
+            "Bonjour ! Avec moi, vous pouvez lancer ou arrêter un timer toggl",
+            "Salutations ! Avec moi, vous pouvez lancer ou arrêter un timer toggl",
+            "Bienvenue ! Avec moi, vous pouvez lancer ou arrêter un timer toggl",
+            "Wesh, avec moi, vous pouvez lancer ou arrêter un timer toggl"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

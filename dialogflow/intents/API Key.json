@@ -1,0 +1,37 @@
+{
+  "id": "7de4cf4f-bb2d-4979-b8ed-b70b1d4a4b60",
+  "name": "API Key",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56e59d27-c289-461f-85ac-2f9d371a207a",
+          "required": true,
+          "dataType": "@APIKEY",
+          "name": "APIKEY",
+          "value": "$APIKEY",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

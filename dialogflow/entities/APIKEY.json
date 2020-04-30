@@ -1,0 +1,9 @@
+{
+  "id": "bb1cd7b8-6ad0-42c3-b899-4b7abbbaebb3",
+  "name": "APIKEY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

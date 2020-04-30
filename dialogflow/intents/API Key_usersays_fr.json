@@ -1,0 +1,145 @@
+[
+  {
+    "id": "64703a69-ce20-4fe2-8673-2dd23f03137a",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a5dba937837146b30b7f808472427ea5",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "406a5021-5425-4c90-8b13-245f5bfa1631",
+    "data": [
+      {
+        "text": "20598ef03581bce8a1e0fcb78cb5f7c6",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      },
+      {
+        "text": " c\u0027est ma clé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8286df32-3b3e-4f76-8602-915b7e32e431",
+    "data": [
+      {
+        "text": "d343755e97683a080f4d5c0cd5958b77",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a002f3c1-28a8-4380-ac7a-5db477b4ce92",
+    "data": [
+      {
+        "text": "ma clé",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " API c\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "45a94241410b33354bac81f3adca4eb2",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1746404-fc79-4198-bdf9-1bd4453eddb8",
+    "data": [
+      {
+        "text": "57de864073edb393328ebaa36720fd51",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4c28083-019a-4165-9328-6ed918f33235",
+    "data": [
+      {
+        "text": "1BC29B36F623BA82AAF6724FD3B16718",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b843219-ec53-403f-9f57-1048098697ff",
+    "data": [
+      {
+        "text": "D5A7E0A911A61335E724B07CDBE06900",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d7f887e-f84f-47da-91b6-99de43d42596",
+    "data": [
+      {
+        "text": "098f6bcd4621d373cade4e832627b4f6",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0a01e67-c05f-41ed-927d-714c385ec6cc",
+    "data": [
+      {
+        "text": "8a4513dbcb1f553d20c96a033ccbf6c1",
+        "alias": "APIKEY",
+        "meta": "@APIKEY",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
